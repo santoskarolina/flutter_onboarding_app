@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class ScreenData {
   ScreenData({this.title, this.description, this.localImageSrc});
 
